@@ -14,7 +14,7 @@ global.BotName = "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙶𝚎𝚘𝚛𝚐𝚎 🔱"
 global.packname = "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙶𝚎𝚘𝚛𝚐𝚎 🔱"
 global.author = "★967770500831★"
 global.OwnerName = "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙱𝙾𝚃 🔱"
-global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
+global.BotSourceCode = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
 global.SupportGroupLink = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
 global.sessionName = "session"
 
@@ -27,7 +27,7 @@ global.location = "bihar, India"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
+global.websitex = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
 global.lolhuman = "KaysaS"
 
 
@@ -58,19 +58,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done/تم...',
-    useradmin: 'Sorry, only *Group Admins* can use this command/هذا الامر لادمن فقط!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group/يجب أن يكون البوت مسؤولاً أولاً.',
-    botowner: 'Only my *Owner* can use this command/هذه الميزة للمالك فقط!',
-    grouponly: 'This command is only made for *Groups*لميزة تستخدم فقط للمجموعات!',
-    privateonly: 'This command is only made for *Private Chat*هذه الميزه فقط في الخاص!',
-    botonly: 'Only the *Bot itself* can use this command/هذه الميزه للبوت فقط!',
-    waiting: 'please wait/استني شويه...',
-    nolink: 'Please provide me *link*اين الرابط?!',
-    error: 'An error occurd/ايرور!',
-    banned: 'You are *Banned* fron using commands/انت محظور من استخدام البوت تواصل مع المطور لالغاء حظرك!',
-    bangc: 'This Group is *Banned* from using Commands/تم حظر هذه المجموعه من استخدام البوت!',
-    nonsfw: 'Dont be a pervert! This is not a NSFW enabled group/لا تكن منحرفا هذه المجموعه ليست لاباحي!!'
+    jobdone: 'تم...',
+    useradmin: 'هذا الامر *للمشرفين* فقط!',
+    botadmin: 'يجب أن يكون البوت *مشرف* أولاً.',
+    botowner: 'هذه الميزة *للمالك* فقط!',
+    grouponly: '*لميزة تستخدم فقط *للمجموعات!',
+    privateonly: '*هذه الميزه فقط في *الخاص!',
+    botonly: 'هذه الميزه للبوت فقط!',
+    waiting: 'انتظر قليل...',
+    nolink: '*اين *الرابط?!',
+    error: 'ايرور!',
+    banned: 'انت محظور من استخدام البوت تواصل مع المطور لالغاء حظرك!',
+    bangc: 'تم حظر هذه المجموعه من استخدام البوت!',
+    nonsfw: 'لا تكن منحرفا هذه المجموعه ليست لاباحي!!'
     
 }
 
